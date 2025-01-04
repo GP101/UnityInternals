@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1-NewStep1\WinFormsApp1.csproj", "{7DF3EFF4-6815-4962-A028-44D8E715C9FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1-NewStep1-CallbackFunctions", "WinFormsApp1-NewStep1-CallbackFunctions\WinFormsApp1-NewStep1-CallbackFunctions.csproj", "{215CDCF4-C7AC-423B-B7FE-F43CFE46A834}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1-NewStep2-DoubleBuffering", "WinFormsApp1-NewStep2-DoubleBuffering\WinFormsApp1-NewStep2-DoubleBuffering.csproj", "{3F00FA14-9A88-4CAC-8837-792F47A0031B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1-NewStep3-GameObjectManager", "WinFormsApp1-NewStep3-GameObjectManager\WinFormsApp1-NewStep3-GameObjectManager.csproj", "{6B058E38-9525-44E7-ABF4-E4A04B99DD11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1-NewStep4-SpriteRendererComponent", "WinFormsApp1-NewStep4-SpriteRendererComponent\WinFormsApp1-NewStep4-SpriteRendererComponent.csproj", "{C17BD87D-1A4A-4356-85E2-91A312D94F6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1-NewStep5-TestComponent", "WinFormsApp1-NewStep5-TestComponent\WinFormsApp1-NewStep5-TestComponent.csproj", "{4979F108-9C40-4EA9-AD82-F9369610BD70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF3EFF4-6815-4962-A028-44D8E715C9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF3EFF4-6815-4962-A028-44D8E715C9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF3EFF4-6815-4962-A028-44D8E715C9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF3EFF4-6815-4962-A028-44D8E715C9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215CDCF4-C7AC-423B-B7FE-F43CFE46A834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215CDCF4-C7AC-423B-B7FE-F43CFE46A834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215CDCF4-C7AC-423B-B7FE-F43CFE46A834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215CDCF4-C7AC-423B-B7FE-F43CFE46A834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F00FA14-9A88-4CAC-8837-792F47A0031B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F00FA14-9A88-4CAC-8837-792F47A0031B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F00FA14-9A88-4CAC-8837-792F47A0031B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F00FA14-9A88-4CAC-8837-792F47A0031B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B058E38-9525-44E7-ABF4-E4A04B99DD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B058E38-9525-44E7-ABF4-E4A04B99DD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B058E38-9525-44E7-ABF4-E4A04B99DD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B058E38-9525-44E7-ABF4-E4A04B99DD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17BD87D-1A4A-4356-85E2-91A312D94F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17BD87D-1A4A-4356-85E2-91A312D94F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17BD87D-1A4A-4356-85E2-91A312D94F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17BD87D-1A4A-4356-85E2-91A312D94F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4979F108-9C40-4EA9-AD82-F9369610BD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4979F108-9C40-4EA9-AD82-F9369610BD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4979F108-9C40-4EA9-AD82-F9369610BD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4979F108-9C40-4EA9-AD82-F9369610BD70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B7457B-2877-4099-9574-F4BF51302723}
+	EndGlobalSection
+EndGlobal

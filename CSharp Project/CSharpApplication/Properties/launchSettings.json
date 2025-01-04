@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharpApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "abd def"
+    }
+  }
+}
