@@ -1,0 +1,25 @@
+syntax: glob
+.git/*
+CSharp Project/.vs/*
+CSharp Project/CSharpApplication/bin/Debug/net6.0/CSharpApplication.deps.json
+CSharp Project/CSharpApplication/bin/*
+CSharp Project/CSharpApplication/obj/*
+Unity Projects/New Unity Project 01 Textured Cube/Library/*
+Unity Projects/New Unity Project 02-1 Sprite/Library/*
+Unity Projects/New Unity Project 02-2 Sprite Coroutine/Library/*
+Unity Projects/New Unity Project 02-3 Sprite Prefab/Library/*
+Unity Projects/New Unity Project 03 PhysicsTest/Library/*
+Unity Projects/New Unity Project 03 PhysicsTest/Temp/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/.vs/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep1-CallbackFunctions/bin/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep1-CallbackFunctions/obj/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep1/bin/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep1/obj/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep2-DoubleBuffering/bin/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep2-DoubleBuffering/obj/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep3-GameObjectManager/bin/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep3-GameObjectManager/obj/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep4-SpriteRendererComponent/bin/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep4-SpriteRendererComponent/obj/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep5-TestComponent/bin/*
+WinForms_UnityEngineEmulation/WinFormsApp1-New/WinFormsApp1-NewStep5-TestComponent/obj/*
