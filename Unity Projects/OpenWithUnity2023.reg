@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Folder\shell\Unity2023]
+@=""
+"Icon"="C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.10f1\\Editor\\Unity.exe"
+"MUIVerb"="Open as Unity 2023 Project"
+
+[HKEY_CLASSES_ROOT\Folder\shell\Unity2023\Command]
+@="cmd /c start /D\"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.10f1\\Editor\\\" Unity.exe -projectPath \"%1\""
