@@ -1,20 +1,18 @@
-﻿// https://www.c-sharpcorner.com/article/top-10-new-features-of-c-sharp-7-with-visual-studio-2017/
-using static System.Console;
-//using static System.Text.Encoding;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-class Program
+namespace CsharpConsole
 {
-    public static int AddNumber(int firstNumber, int secondNumber)
+    class Program
     {
-        return firstNumber + secondNumber;
-    }
-
-    static void Main(string[] args)
-    {
-        AddNumber(2, 3);
-        AddNumber(firstNumber: 2, secondNumber: 3);
-        AddNumber(2, secondNumber: 3);
-        AddNumber(firstNumber: 2, 3);
-        AddNumber(secondNumber: 3, firstNumber: 2);
+        static void Main(string[] args)
+        {
+            // Only this Program.cs file is for building the project
+            // Copy other file contents here
+            // Part 1 files are in Custom Reference Files and StepByStepFiles
+            // Part 2 files are in UnityFrameworkFiles
+            // 2025-01-10, Jintaek Seo(jintaeks@gmail.com)
+        }
     }
 }
