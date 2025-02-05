@@ -143,6 +143,10 @@
     <Compile Remove="StepByStepFiles\Program32 yield04.cs" />
     <Compile Remove="StepByStepFiles\Program33 yield05.cs" />
     <Compile Remove="StepByStepFiles\Program34 yield06 collection.cs" />
+    <Compile Remove="StepByStepFiles\Program35 async01.cs" />
+    <Compile Remove="StepByStepFiles\Program35 async02.cs" />
+    <Compile Remove="StepByStepFiles\Program35 async03.cs" />
+    <Compile Remove="StepByStepFiles\Program35 async04.cs" />
     <Compile Remove="UnityFrameworkFiles\Program Attribute.cs" />
     <Compile Remove="UnityFrameworkFiles\Program GameLoop with Coroutine.cs" />
     <Compile Remove="UnityFrameworkFiles\Program GameLoop.cs" />
@@ -293,6 +297,10 @@
     <None Include="StepByStepFiles\Program32 yield04.cs" />
     <None Include="StepByStepFiles\Program33 yield05.cs" />
     <None Include="StepByStepFiles\Program34 yield06 collection.cs" />
+    <None Include="StepByStepFiles\Program35 async01.cs" />
+    <None Include="StepByStepFiles\Program35 async02.cs" />
+    <None Include="StepByStepFiles\Program35 async03.cs" />
+    <None Include="StepByStepFiles\Program35 async04.cs" />
     <None Include="UnityFrameworkFiles\Program Attribute.cs" />
     <None Include="UnityFrameworkFiles\Program GameLoop with Coroutine.cs" />
     <None Include="UnityFrameworkFiles\Program GameLoop.cs" />
