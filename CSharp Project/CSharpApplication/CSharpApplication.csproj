@@ -42,6 +42,7 @@
     <Compile Remove="Csharp5_TaskParallelLibrary\Program Task07 Parallel.For.cs" />
     <Compile Remove="Csharp5_TaskParallelLibrary\Program Task08 CancellationToken.cs" />
     <Compile Remove="Csharp5_TaskParallelLibrary\Program Task09 async await.cs" />
+    <Compile Remove="Csharp5_TaskParallelLibrary\Program Task10 CriticalSection.cs" />
     <Compile Remove="Csharp6_WhatsNew\Csharp6_01_usingStatic.cs" />
     <Compile Remove="Csharp6_WhatsNew\Csharp6_02_usingStaticForExtensionMethod.cs" />
     <Compile Remove="Csharp6_WhatsNew\Csharp6_03_nameof.cs" />
@@ -197,6 +198,7 @@
     <None Include="Csharp5_TaskParallelLibrary\Program Task07 Parallel.For.cs" />
     <None Include="Csharp5_TaskParallelLibrary\Program Task08 CancellationToken.cs" />
     <None Include="Csharp5_TaskParallelLibrary\Program Task09 async await.cs" />
+    <None Include="Csharp5_TaskParallelLibrary\Program Task10 CriticalSection.cs" />
     <None Include="Csharp6_WhatsNew\Csharp6_01_usingStatic.cs" />
     <None Include="Csharp6_WhatsNew\Csharp6_02_usingStaticForExtensionMethod.cs" />
     <None Include="Csharp6_WhatsNew\Csharp6_03_nameof.cs" />
